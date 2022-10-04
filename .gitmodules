@@ -1,0 +1,6 @@
+[submodule "BE_web"]
+	path = BE_web
+	url = https://github.com/TuanNguyen-A/web_BE_OOP.git
+[submodule "FE_web"]
+	path = FE_web
+	url = https://github.com/2709NgocAnh/web_fe_oop.git
